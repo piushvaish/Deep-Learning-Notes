@@ -1,4 +1,4 @@
-# Project Title
+# Deep Learning Notes
 
 The repository contains notes and work that has been done to date.
 
